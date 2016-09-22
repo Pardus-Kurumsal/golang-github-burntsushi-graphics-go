@@ -1,0 +1,12 @@
+golang-github-burntsushi-graphics-go (0.0~git20160920) xenial; urgency=medium
+
+  [ Deepin Packages Builder ]
+  * fix import. 
+
+ -- lilongyu <leaeasy@gmail.com>  Thu, 22 Sep 2016 16:04:48 +0800
+
+golang-google-graphics-go (0.0~git20140903) unstable; urgency=low
+
+  * build with golang 1.5.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 03 Sep 2014 14:59:49 +0800
